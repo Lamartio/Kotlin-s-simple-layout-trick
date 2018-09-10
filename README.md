@@ -1,2 +1,2 @@
-# kotlins_simple_layout_trick
+# Kotlin's simple layout trick
 Example code that accompanies the article.
