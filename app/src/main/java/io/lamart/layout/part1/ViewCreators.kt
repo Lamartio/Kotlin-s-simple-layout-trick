@@ -1,4 +1,4 @@
-package io.lamart.layout
+package io.lamart.layout.part1
 
 import android.widget.Button
 import android.widget.FrameLayout
